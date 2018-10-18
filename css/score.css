@@ -1,0 +1,18 @@
+body {
+  background-image: url("https://img.wallpapersafari.com/desktop/1920/1080/72/24/cXD4Iq.jpg");
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Indie Flower', cursive;
+  color: white;
+}
+p {
+  font-family: 'Shadows Into Light', cursive;
+
+  color: white;
+}
+.winner {
+  color: #85bb23;
+}
